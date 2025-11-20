@@ -1,1 +1,1 @@
-Inputs a integer no. and then breaks it into string and then evaluates the string characters individually by numbering them.
+The code generates the infinite sequence of digits vreated by writing integers consecutively and gives you the first n digits of that sequence
